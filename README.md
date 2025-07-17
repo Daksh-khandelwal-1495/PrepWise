@@ -5,7 +5,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![License](https://img.shields.io/github/license/yourusername/prepwise?style=for-the-badge)
 
 PrepWise helps job seekers practice interviews with realistic AI-powered voice agents and receive instant, detailed feedback — so you can boost your confidence and land your dream job.
 
