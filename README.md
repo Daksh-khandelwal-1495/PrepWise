@@ -9,7 +9,7 @@
 
 PrepWise helps job seekers practice interviews with realistic AI-powered voice agents and receive instant, detailed feedback — so you can boost your confidence and land your dream job.
 
-👉 [Live Demo](https://prepwise.vercel.app)
+
 -
 -## 📋 <a name="table">Table of Contents</a>
 -
